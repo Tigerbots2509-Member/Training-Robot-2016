@@ -5,6 +5,11 @@ package org.usfirst.frc.team2509.robot;
  * to a variable name. This provides flexibility changing wiring, makes checking
  * the wiring easier and significantly reduces the number of magic numbers
  * floating around.
+ *
+ *HERE IS THE FOLLOWING GEAR LIST
+ * 4 Jaguar
+ * 3 Talon
+ *
  */
 public class RobotMap {
 	// For example to map the left and right motors, you could define the
